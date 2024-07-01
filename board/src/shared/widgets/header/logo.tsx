@@ -10,7 +10,7 @@ const Logo = () => {
       x="0px"
       y="0px"
       viewBox="0 0 439.4 110.2"
-      className="fill-black cursor-pointer h-[28px] lg:h-[32px]"
+      className="fill-black cursor-pointer h-[28px] lg:h-[32px] mr-[8px]"
     >
       <g id="b">
         <g id="c">
@@ -45,7 +45,7 @@ const Logo = () => {
         </g>
       </g>
     </svg>
-    <h5 className="absolute right-[-45px] xl:right-[-35px] pt-1 font-medium text-2xl">
+    <h5 className="absolute right-[-50px] xl:right-[-35px] pt-1 font-medium text-2xl">
       Multycomm
     </h5>
   </div>
