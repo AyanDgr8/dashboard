@@ -3,7 +3,7 @@ import Banner from "./elements/banner";
 import Branding from "@/modules/home/elements/branding";
 import Benefits from "@/modules/home/elements/benefits";
 import FeatureHighlight from "@/modules/home/elements/feature.highlight";
-import Pricing from "@/modules/home/elements/pricing";
+// import Pricing from "@/modules/home/elements/pricing";
 import Footer from "@/shared/widgets/footer/footer";
 
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
       <Branding />
       <Benefits />
       <FeatureHighlight />
-      <Pricing />
+      {/* <Pricing /> */}
       <Footer />
     </div>
   );
